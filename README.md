@@ -8,7 +8,7 @@
 
 ## Demo
 
-- Streamlit App: Coming soon
+- Streamlit App: https://esg-prediction-dashboard.streamlit.app/
 - GitHub Repository: https://github.com/Manyong1204/esg-prediction-dashboard
 
 <br>
